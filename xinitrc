@@ -1,4 +1,4 @@
 #!/bin/sh
 
-alacritty
-exec ~/vw/main
+alacritty &
+exec ./main
